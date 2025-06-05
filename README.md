@@ -1,50 +1,54 @@
 # ✅ Task 7: Identify and Remove Suspicious Browser Extensions
 
 ## 📌 Objective  
-To identify and remove potentially harmful or unnecessary browser extensions, improving browser performance and enhancing security awareness.
+To audit and remove unnecessary or unwanted extensions from the Opera browser to improve security and performance.
 
-## 🧰 Tools Used  
-- **Browser:** Google Chrome  
-- **Operating System:** Windows 10
+## 🧰 Environment  
+- **Browser:** Opera  
+- **Operating System:** Windows 10  
+- **Extension Manager Used:** `opera://extensions/`
 
 ---
 
-## 🔍 Steps Performed  
+## 🔍 Steps Performed
 
-1. Opened Chrome and navigated to the Extensions Manager: `chrome://extensions/`.
-2. Reviewed all installed extensions one by one.
-3. Checked each extension’s:
-   - Permissions
-   - Web Store ratings & reviews
-   - Purpose and necessity
-4. Flagged extensions that were either:
-   - Not in use
-   - Requested too many permissions
-   - Had negative or suspicious reviews
-5. Removed the unnecessary/suspicious ones.
-6. Restarted the browser and observed performance improvements.
+1. Opened Opera and navigated to the extensions page (`opera://extensions/`).
+2. Reviewed all installed extensions for necessity, permissions, and trustworthiness.
+3. Identified extensions that were:
+   - Not required
+   - Potentially unnecessary or cosmetic
+4. Removed the following extensions:
+   - Удобное представление файлов VK
+   - Opera Wallet
+   - Opera One: Interstellar
+   - Opera Ad Blocker
+   - Night Mode Pro
+5. Restarted Opera and verified performance improvements.
 
 ---
 
 ## ⚠️ Extensions Removed  
 
-| Extension Name       | Reason for Removal                     |
-|----------------------|----------------------------------------|
-| PDF Online Converter | No longer used; had wide access rights |
-| Quick Tab Switcher   | Excessive permissions; low rating       |
+| Extension Name                     | Reason for Removal                       |
+|----------------------------------|----------------------------------------|
+| Удобное представление файлов VK  | Not needed; unrelated to core browsing |
+| Opera Wallet                     | Unused feature                         |
+| Opera One: Interstellar          | Cosmetic theme                        |
+| Opera Ad Blocker                 | Using alternate ad blocker or unnecessary |
+| Night Mode Pro                  | Not used or preferred system dark mode |
 
 ---
 
-## 🧠 Insights Gained  
+## 🧠 Insights Gained
 
-- Learned how browser extensions can **pose a privacy or security risk**.
-- Understood the importance of **minimal permissions** and **verified sources**.
-- Noticed faster performance after cleanup.
+- Removing unused or cosmetic extensions reduces browser resource use.
+- Some Opera built-in extensions may be optional depending on user needs.
+- Regular audits keep browser secure and performant.
 
 ---
 
 ## ✅ Outcome  
 
-- Removed 2 potentially risky extensions.
-- Strengthened browser security posture.
-- Improved performance and startup time.
+- Removed 5 unnecessary or unwanted extensions.
+- Enhanced browser speed and reduced background activity.
+- Improved overall browser security posture.
