@@ -27,6 +27,14 @@ To audit and remove unnecessary or unwanted extensions from the Opera browser to
 
 ---
 
+## 📸 Screenshots
+
+Below is a screenshot showing the extensions removed from Opera during this task.
+
+![Removed Extensions](screenshots/opera_extensions_removed.png)
+
+---
+
 ## ⚠️ Extensions Removed  
 
 | Extension Name                     | Reason for Removal                       |
