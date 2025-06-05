@@ -5,7 +5,7 @@ To audit and remove unnecessary or unwanted extensions from the Opera browser to
 
 ## 🧰 Environment  
 - **Browser:** Opera  
-- **Operating System:** Windows 10  
+- **Operating System:** Windows 11 
 - **Extension Manager Used:** `opera://extensions/`
 
 ---
